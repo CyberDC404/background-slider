@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "899680591513",
+    "project_id": "persuasive-axe-105016"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899680591513:android:212c753bed062375",
+        "android_client_info": {
+          "package_name": "com.humanindo.ghmmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjwwSuVl1kPfjulv0yQXFLP3hgrCnULs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899680591513:android:359441427e1679d9",
+        "android_client_info": {
+          "package_name": "com.panduseptian.gcmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjwwSuVl1kPfjulv0yQXFLP3hgrCnULs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
